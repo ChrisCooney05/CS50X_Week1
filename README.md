@@ -1,6 +1,6 @@
 # CS50X Week 1
 
-All files are from week 1 of Harvard CS50X
+All files are from week 1 of Harvard CS50X - C
 
 - **Hello** - A simple Hello world like project, but instead taking a name and saying hello 👋
   
